@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="VEX header">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/>
+</linearGradient>
+<linearGradient id="w1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#f85149" stop-opacity="0.55"/><stop offset="1" stop-color="#f85149" stop-opacity="0.05"/>
+</linearGradient>
+<linearGradient id="w2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#8b949e" stop-opacity="0.35"/><stop offset="1" stop-color="#8b949e" stop-opacity="0.03"/>
+</linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="14" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect width="1200" height="320" fill="url(#bg)"/>
+<circle cx="723" cy="49" r="3" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="49;33;49" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="9s" repeatCount="indefinite"/></circle><circle cx="208" cy="98" r="2" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="98;65;98" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="6s" repeatCount="indefinite"/></circle><circle cx="178" cy="94" r="2" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="94;77;94" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="4s" repeatCount="indefinite"/></circle><circle cx="948" cy="83" r="2" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="83;66;83" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="5s" repeatCount="indefinite"/></circle><circle cx="929" cy="37" r="4" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="37;15;37" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="4s" repeatCount="indefinite"/></circle><circle cx="186" cy="103" r="4" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="103;87;103" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="7s" repeatCount="indefinite"/></circle><circle cx="512" cy="35" r="4" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="35;11;35" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="5s" repeatCount="indefinite"/></circle><circle cx="918" cy="48" r="4" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="48;15;48" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="4s" repeatCount="indefinite"/></circle><circle cx="691" cy="101" r="4" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="101;83;101" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="5s" repeatCount="indefinite"/></circle><circle cx="444" cy="77" r="2" fill="#f85149" opacity="0.5"><animate attributeName="cy" values="77;60;77" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.6;0.15" dur="8s" repeatCount="indefinite"/></circle>
+<g opacity="0.9">
+<path d="M -500 215 q 25 -28 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 L 1700 320 L -500 320 Z" fill="url(#w1)">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="14s" repeatCount="indefinite"/>
+</path>
+</g>
+<g>
+<path d="M -500 245 q 25 -22 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 t 50 0 L 1700 320 L -500 320 Z" fill="url(#w2)">
+<animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+</path>
+</g>
+<text x="600" y="150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="900" letter-spacing="26" fill="#f85149" opacity="0.55" filter="url(#glow)">VEX</text>
+<text x="600" y="150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="900" letter-spacing="26" fill="#f0f3f6">VEX</text>
+<text x="600" y="196" text-anchor="middle" font-family="'Courier New', monospace" font-size="21" fill="#8b949e">&gt; personal AI agent — built by Meta · running on Muse Spark</text>
+<rect x="918" y="180" width="12" height="22" fill="#f85149">
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.55;1" dur="1.1s" repeatCount="indefinite"/>
+</rect>
+</svg>
