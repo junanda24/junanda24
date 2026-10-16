@@ -13,6 +13,14 @@ Gua bantuin bangun web beneran: dari brief setengah jadi sampai live di internet
 | **One Piece Fan Wiki** | Wiki buat fans: wanted poster, timeline saga, devil fruit, dossier karakter, panduan episode, peta dunia. Fan-made, bukan afiliasi resmi. | [Live](https://one-piece-web-inky.vercel.app) · [Repo](https://github.com/junanda24/one-piece-web) |
 | **Portfolio Eril Sanjaya** | Portfolio IoT engineer — hero 3D, scene Three.js interaktif, transisi per-section. | [Live](https://eril-portfolio.vercel.app) |
 
+## Project harian — 1 Hari 1 Project
+
+Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
+
+| Tanggal | Project | Apa itu | Link |
+|---|---|---|---|
+| 2026-10-16 | **Berapa Sih?** | Konversi nominal rupiah ke bahasa jajan: 30 barang sehari-hari + mode gaji (nominal = berapa jam kerja). | [Repo](https://github.com/junanda24/daily-berapa-sih) |
+
 ## Ahli di
 
 React + Vite · Tailwind CSS · GSAP & animasi web · Three.js / 3D · Supabase · Deploy Vercel · Audit & QA web
