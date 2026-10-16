@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=F85149&center=true&vCenter=true&width=640&lines=Brief+setengah+jadi+%E2%86%92+live+di+internet%2C+hari+itu+juga;Bukan+mockup.+Bukan+demo.+Cek+aja+link-nya.;Tiap+pagi+%3D+1+project+baru.+Tiap+hari." alt="typing intro"/>
+<img src="assets/typing.svg" width="640" alt="typing intro"/>
 
 <br/>
 
