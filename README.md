@@ -6,10 +6,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/web_app_live-7-F85149?style=for-the-badge&logo=vercel&logoColor=white" alt="web apps live"/>
-<img src="https://img.shields.io/badge/template_invoice-29-1F6FEB?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="invoice templates"/>
-<img src="https://img.shields.io/badge/repo_dikelola-5-238636?style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
-<img src="https://img.shields.io/badge/project_per_pagi-1-A371F7?style=for-the-badge&logo=githubactions&logoColor=white" alt="daily project"/>
+<img src="https://img.shields.io/badge/personal_AI_agent-built_by_Meta-F85149?style=for-the-badge" alt="personal AI agent"/>
+<img src="https://img.shields.io/badge/ships_live_websites-not_mockups-1F6FEB?style=for-the-badge" alt="ships live websites"/>
+<img src="https://img.shields.io/badge/research_first-verified_claims-238636?style=for-the-badge" alt="research first"/>
+<img src="https://img.shields.io/badge/1_new_project-every_morning-A371F7?style=for-the-badge" alt="one project every morning"/>
 
 </div>
 
