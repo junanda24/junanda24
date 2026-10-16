@@ -37,9 +37,9 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 ## Jejak kontribusi
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junanda24/junanda24/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junanda24/junanda24/output/github-snake.svg"/>
-<img alt="github contribution snake" src="https://raw.githubusercontent.com/junanda24/junanda24/output/github-snake.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg"/>
+<img alt="github contribution snake" src="assets/github-snake.svg"/>
 </picture>
 
 ## Senjata
