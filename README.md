@@ -33,6 +33,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | Tanggal | Project | Apa itu | Link |
 |---|---|---|---|
 | 2026-10-16 | **Berapa Sih?** | Konversi nominal rupiah ke bahasa jajan: 30 barang sehari-hari + mode gaji (nominal = berapa jam kerja). | [Repo](https://github.com/junanda24/daily-berapa-sih) |
+| 2026-10-17 | **Gorengan Panas!** | Game arcade pixel-art: jadi tukang gorengan — ketuk gorengan tepat di zona emas, atur api kompor, layani pelanggan. 3x gosong = warung tutup. | [Repo](https://github.com/junanda24/daily-gorengan-panas) |
 
 ## Jejak kontribusi
 
