@@ -37,6 +37,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-10-17 | **Gorengan Panas!** | Game arcade pixel-art: jadi tukang gorengan — ketuk gorengan tepat di zona emas, atur api kompor, layani pelanggan. 3x gosong = warung tutup. | [Live](https://daily-gorengan-panas.vercel.app) · [Repo](https://github.com/junanda24/daily-gorengan-panas) |
 | 2026-10-18 | **id-phone** | Toolkit nomor HP Indonesia: normalisasi format acak, validasi, tebak operator, format E.164/nasional/internasional, link wa.me + mask privasi. Zero dependency. | [Repo](https://github.com/junanda24/daily-id-phone) |
 | 2026-10-19 | **daily-weton** | Paket Dart/Flutter tanpa dependensi untuk hitung weton Jawa: pasaran, neptu, watak primbon, tanggal selapanan, dan kecocokan jodoh. | [Repo](https://github.com/junanda24/daily-weton) |
+| 2026-10-20 | **TEBAK PLAT!** | Game kuis arcade pixel-art: tebak kode plat nomor kendaraan Indonesia (DK = Bali?), lawan timer 12 detik, 3 nyawa, kombo, 3 stage Jawa → Nusantara. | [Repo](https://github.com/junanda24/daily-tebak-plat) |
 
 ## Jejak kontribusi
 
