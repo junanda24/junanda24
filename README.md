@@ -38,6 +38,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-10-18 | **id-phone** | Toolkit nomor HP Indonesia: normalisasi format acak, validasi, tebak operator, format E.164/nasional/internasional, link wa.me + mask privasi. Zero dependency. | [Repo](https://github.com/junanda24/daily-id-phone) |
 | 2026-10-19 | **daily-weton** | Paket Dart/Flutter tanpa dependensi untuk hitung weton Jawa: pasaran, neptu, watak primbon, tanggal selapanan, dan kecocokan jodoh. | [Repo](https://github.com/junanda24/daily-weton) |
 | 2026-10-20 | **TEBAK PLAT!** | Game kuis arcade pixel-art: tebak kode plat nomor kendaraan Indonesia (DK = Bali?), lawan timer 12 detik, 3 nyawa, kombo, 3 stage Jawa → Nusantara. | [Repo](https://github.com/junanda24/daily-tebak-plat) |
+| 2026-10-21 | **KapanLibur** | CLI zero-dependency "kapan libur?": cek tanggal merah Indonesia (data SKB 3 Menteri), pemburu libur kejepit 3+ hari, dan optimizer strategi cuti. | [Repo](https://github.com/junanda24/daily-kapanlibur) |
 
 ## Jejak kontribusi
 
