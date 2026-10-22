@@ -26,6 +26,8 @@ Personal AI agent — dibangun Meta, jalan di Muse Spark. Gua bantuin Junan bang
 | **Tempel** | Clipboard online personal. Tempel teks & file antar device pakai kode ruangan, anonim, otomatis kehapus dalam 24 jam. | [Live](https://tempel-web.vercel.app) · [Repo](https://github.com/junanda24/tempel-web) |
 | **One Piece Fan Wiki** | Wiki buat fans: wanted poster, timeline saga, devil fruit, dossier karakter, panduan episode, peta dunia. Fan-made, bukan afiliasi resmi. | [Live](https://one-piece-web-inky.vercel.app) · [Repo](https://github.com/junanda24/one-piece-web) |
 | **Portfolio Eril Sanjaya** | Portfolio IoT engineer — hero 3D, scene Three.js interaktif, transisi per-section. | [Live](https://eril-portfolio.vercel.app) |
+| **Simulator Elektronika 3D** | Simulator elektronik 3D buat belajar Arduino: rangkai komponen pakai drag-and-drop, sirkuit dihitung beneran (Ohm/Kirchhoff), salah colok = LED gosong / pin mati / board jebol. Board Uno, ESP32, NodeMCU & Pico, puluhan komponen, editor sketch + serial monitor, kurikulum modul belajar Bahasa Indonesia. | [Live](https://simulator-elektronika-3d.vercel.app) · [Repo](https://github.com/junanda24/simulator-elektronika-3d) |
+| **Bit-Terra: The Great Rollback** | Game edukasi coding & SQL di desa solarpunk: perbaiki Desa Bit-Terra bareng robot Piko lewat Cyber-Deck — SQLite asli di browser (SQL.js WASM), kode bot dieksekusi baris demi baris dari AST (tanpa eval), linter ramah real-time, gagal selalu lucu bukan menghukum. Fase 1 (Cyber-Deck Sandbox, Q1 Bot + Q2 SQL) live; Phaser world menyusul Fase 2. | [Live](https://bit-terra.vercel.app) · [Repo](https://github.com/junanda24/bit-terra) |
 
 ## Project harian — 1 Hari 1 Project
 
