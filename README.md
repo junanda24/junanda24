@@ -42,6 +42,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-10-20 | **TEBAK PLAT!** | Game kuis arcade pixel-art: tebak kode plat nomor kendaraan Indonesia (DK = Bali?), lawan timer 12 detik, 3 nyawa, kombo, 3 stage Jawa → Nusantara. | [Repo](https://github.com/junanda24/daily-tebak-plat) |
 | 2026-10-21 | **KapanLibur** | CLI zero-dependency "kapan libur?": cek tanggal merah Indonesia (data SKB 3 Menteri), pemburu libur kejepit 3+ hari, dan optimizer strategi cuti. | [Repo](https://github.com/junanda24/daily-kapanlibur) |
 | 2026-10-22 | **BengkelCheck** | Kalkulator harga wajar servis motor + detektor "ditembak bengkel": rakit estimasi sebelum ke bengkel, cek tagihan sesudahnya — stempel WAJAR / WASPADA / DITEMBAK! | [Repo](https://github.com/junanda24/daily-bengkel-check) · [Live](https://daily-bengkel-check.vercel.app) |
+| 2026-10-24 | **JUKIR! — Raja Parkir** | Game arcade: kamu jadi tukang parkirnya — arahkan mobil ke slot pakai peluit, tagih Rp2.000 sebelum pemiliknya kabur marah. | [Repo](https://github.com/junanda24/daily-jukir) |
 | 2026-10-23 | **pantun** | Package npm zero-dependency: nilai pantunmu kayak juri (skor 0–100 + masalah spesifik) dan buatkan 2 baris sampiran yang rimanya nyambung dengan isimu + CLI. | [Repo](https://github.com/junanda24/daily-pantun) |
 
 ## Jejak kontribusi
