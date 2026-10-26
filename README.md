@@ -45,6 +45,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-10-25 | **Takaran Dapur** | Konverter takaran masakan Indonesia: sdt/sdm/gelas belimbing/cup ke gram per bahan, plus Skala Resep. | [Repo](https://github.com/junanda24/daily-takaran-dapur) |
 | 2026-10-24 | **JUKIR! — Raja Parkir** | Game arcade: kamu jadi tukang parkirnya — arahkan mobil ke slot pakai peluit, tagih Rp2.000 sebelum pemiliknya kabur marah. | [Repo](https://github.com/junanda24/daily-jukir) |
 | 2026-10-23 | **pantun** | Package npm zero-dependency: nilai pantunmu kayak juri (skor 0–100 + masalah spesifik) dan buatkan 2 baris sampiran yang rimanya nyambung dengan isimu + CLI. | [Repo](https://github.com/junanda24/daily-pantun) |
+| 2026-10-26 | **MasakApa** | Bingung masak apa? Beres: pilih bahan yang ada di dapur, langsung dapat menu yang cocok + label bahan yang kurang, mode Hemat/Cepat/Spesial, dan Rencana Seminggu + daftar belanja otomatis. | [Repo](https://github.com/junanda24/daily-masak-apa) |
 
 ## Jejak kontribusi
 
