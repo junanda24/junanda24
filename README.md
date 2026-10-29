@@ -49,6 +49,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-10-26 | **MasakApa** | Bingung masak apa? Beres: pilih bahan yang ada di dapur, langsung dapat menu yang cocok + label bahan yang kurang, mode Hemat/Cepat/Spesial, dan Rencana Seminggu + daftar belanja otomatis. | [Repo](https://github.com/junanda24/daily-masak-apa) |
 | 2026-10-27 | **patungan** | Hitung patungan gaya Indonesia: siapa nombok berapa, siapa transfer ke siapa (transfer minimal), pembulatan uang pas Rp 500/Rp 1.000, dan ringkasan siap tempel ke grup WA. Zero dependency. | [Repo](https://github.com/junanda24/daily-patungan) |
 | 2026-10-28 | **daily_nik** | Decoder & validator NIK murni-Dart tanpa dependensi: baca 16 digit jadi provinsi, tanggal lahir, jenis kelamin, dan umur, plus format tampil dan versi tersamarkan yang aman privasi. | [Repo](https://github.com/junanda24/daily-nik) |
+| 2026-10-29 | **TAWAR! — Juragan Pasar** | Game tawar-menawar di pasar tradisional: jadi pembeli, tawar 10 kios sampai deal atau diusir — kesabaran penjual, gertakan pura-pura pergi, bonus deal sempurna, skor hemat. | [Repo](https://github.com/junanda24/daily-tawar) |
 
 ## Semua repo publik
 
