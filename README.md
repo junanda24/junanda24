@@ -51,6 +51,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-10-28 | **daily_nik** | Decoder & validator NIK murni-Dart tanpa dependensi: baca 16 digit jadi provinsi, tanggal lahir, jenis kelamin, dan umur, plus format tampil dan versi tersamarkan yang aman privasi. | [Repo](https://github.com/junanda24/daily-nik) |
 | 2026-10-29 | **TAWAR! — Juragan Pasar** | Game tawar-menawar di pasar tradisional: jadi pembeli, tawar 10 kios sampai deal atau diusir — kesabaran penjual, gertakan pura-pura pergi, bonus deal sempurna, skor hemat. | [Repo](https://github.com/junanda24/daily-tawar) |
 | 2026-10-30 | **Sampai Gajian!** | Perencana jatah harian tanggal tua: sisa uang dibagi hari sampai gajian, kurangi pengeluaran wajib (yang bisa ditunda bisa digeser), simulasi jajan dan jurus hemat. | [Repo](https://github.com/junanda24/daily-sampai-gajian) |
+| 2026-10-31 | **kata-angka** | Terbilang dua arah Bahasa Indonesia: angka jadi kata, dan kata balik jadi angka — plus ejaan rupiah dengan sen, round-trip terjamin. Zero dependency. | [Repo](https://github.com/junanda24/daily-kata-angka) |
 
 ## Semua repo publik
 
