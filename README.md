@@ -52,6 +52,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-10-29 | **TAWAR! — Juragan Pasar** | Game tawar-menawar di pasar tradisional: jadi pembeli, tawar 10 kios sampai deal atau diusir — kesabaran penjual, gertakan pura-pura pergi, bonus deal sempurna, skor hemat. | [Repo](https://github.com/junanda24/daily-tawar) |
 | 2026-10-30 | **Sampai Gajian!** | Perencana jatah harian tanggal tua: sisa uang dibagi hari sampai gajian, kurangi pengeluaran wajib (yang bisa ditunda bisa digeser), simulasi jajan dan jurus hemat. | [Repo](https://github.com/junanda24/daily-sampai-gajian) |
 | 2026-10-31 | **kata-angka** | Terbilang dua arah Bahasa Indonesia: angka jadi kata, dan kata balik jadi angka — plus ejaan rupiah dengan sen, round-trip terjamin. Zero dependency. | [Repo](https://github.com/junanda24/daily-kata-angka) |
+| 2026-11-01 | **Berani Resign?** | Kalkulator runway resign: berapa bulan tabungan bertahan, target dana darurat per tanggungan, skor kesiapan 8 item, verdict gaya stempel — plus draf surat pengunduran diri tinggal salin. | [Repo](https://github.com/junanda24/daily-berani-resign) |
 
 ## Semua repo publik
 
