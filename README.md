@@ -54,6 +54,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-10-31 | **kata-angka** | Terbilang dua arah Bahasa Indonesia: angka jadi kata, dan kata balik jadi angka — plus ejaan rupiah dengan sen, round-trip terjamin. Zero dependency. | [Repo](https://github.com/junanda24/daily-kata-angka) |
 | 2026-11-01 | **Berani Resign?** | Kalkulator runway resign: berapa bulan tabungan bertahan, target dana darurat per tanggungan, skor kesiapan 8 item, verdict gaya stempel — plus draf surat pengunduran diri tinggal salin. | [Repo](https://github.com/junanda24/daily-berani-resign) |
 | 2026-11-02 | **TEBAK HARGA!** | Game tebak harga sembako: tebak harga 10 bahan pokok per kg, dinilai dari harga acuan nyata PIHPS Nasional 1 November 2026 — dari beras sampai cabai rawit Rp96 ribu. | [Repo](https://github.com/junanda24/daily-tebak-harga) |
+| 2026-11-03 | **ArisanKu** | Kelola arisan tanpa drama: catat iuran per periode, kocok adil (hanya yang lunas dan belum menang), dan pantau sisa kewajiban pemenang sampai putaran selesai — tanpa login, plus rekap siap tempel ke grup WA. | [Repo](https://github.com/junanda24/daily-arisan-ku) |
 
 ## Semua repo publik
 
