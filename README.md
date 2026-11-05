@@ -57,6 +57,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-03 | **ArisanKu** | Kelola arisan tanpa drama: catat iuran per periode, kocok adil (hanya yang lunas dan belum menang), dan pantau sisa kewajiban pemenang sampai putaran selesai — tanpa login, plus rekap siap tempel ke grup WA. | [Repo](https://github.com/junanda24/daily-arisan-ku) |
 | 2026-11-04 | **KondanganKu** | Buku amplop digital: catat amplop per hajatan, lalu sebelum berangkat kondangan cek dalam 5 detik dulu si pemberi pernah memberi berapa — lengkap dengan saran nominal balasan dan tanda sudah dibalas. | [Repo](https://github.com/junanda24/daily-kondangan-ku) |
 | 2026-11-05 | **WarungKu** | Kasir warung dari terminal: produk, stok, penjualan tunai, bon pelanggan yang bisa dicicil, laporan harian, dan struk teks — zero dependency, data satu file JSON lokal tanpa akun. | [Repo](https://github.com/junanda24/daily-warungku) |
+| 2026-11-06 | **PAK RT!** | Game simulasi jadi Ketua RT: bertahan 30 hari menghadapi laporan warga — ayam tetangga, pohon mangga, hajatan jam 2 pagi — sambil menjaga Kas, Kerukunan, dan Reputasi; ada 6 pencapaian dan riwayat jabatan. | [Repo](https://github.com/junanda24/daily-pak-rt) |
 
 ## Semua repo publik
 
