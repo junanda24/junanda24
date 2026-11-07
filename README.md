@@ -59,6 +59,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-05 | **WarungKu** | Kasir warung dari terminal: produk, stok, penjualan tunai, bon pelanggan yang bisa dicicil, laporan harian, dan struk teks — zero dependency, data satu file JSON lokal tanpa akun. | [Repo](https://github.com/junanda24/daily-warungku) |
 | 2026-11-06 | **PAK RT!** | Game simulasi jadi Ketua RT: bertahan 30 hari menghadapi laporan warga — ayam tetangga, pohon mangga, hajatan jam 2 pagi — sambil menjaga Kas, Kerukunan, dan Reputasi; ada 6 pencapaian dan riwayat jabatan. | [Repo](https://github.com/junanda24/daily-pak-rt) |
 | 2026-11-07 | **LULUS SIM!** | Latihan ujian teori SIM A & C persis format asli: 30 soal acak, timer 15 menit, lulus minimal 70% — bank 60 soal dengan penjelasan + rujukan pasal UU 22/2009, kamus 34 rambu bergambar, dan statistik progres. | [Repo](https://github.com/junanda24/daily-lulus-sim) |
+| 2026-11-08 | **WARKOP! — Juragan Kopi** | Game manajemen waktu jadi juragan warung kopi: layani Bang Ojol, Bapak-bapak, Mahasiswa, dan Anak Nongkrong sebelum kesabaran mereka habis — 9 menu harga warkop asli, Jam Rame, toko upgrade, dan 5 pangkat Juragan. | [Repo](https://github.com/junanda24/daily-warkop) |
 
 ## Semua repo publik
 
