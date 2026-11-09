@@ -61,6 +61,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-07 | **LULUS SIM!** | Latihan ujian teori SIM A & C persis format asli: 30 soal acak, timer 15 menit, lulus minimal 70% — bank 60 soal dengan penjelasan + rujukan pasal UU 22/2009, kamus 34 rambu bergambar, dan statistik progres. | [Repo](https://github.com/junanda24/daily-lulus-sim) |
 | 2026-11-08 | **WARKOP! — Juragan Kopi** | Game manajemen waktu jadi juragan warung kopi: layani Bang Ojol, Bapak-bapak, Mahasiswa, dan Anak Nongkrong sebelum kesabaran mereka habis — 9 menu harga warkop asli, Jam Rame, toko upgrade, dan 5 pangkat Juragan. | [Repo](https://github.com/junanda24/daily-warkop) |
 | 2026-11-09 | **qris-id** | Library TypeScript zero-dependency untuk baca, bikin, validasi, dan ubah payload QRIS: stiker statis warung jadi payload dinamis ber-nominal dalam satu fungsi, tanpa gateway dan tanpa API key — plus CLI. | [Repo](https://github.com/junanda24/daily-qris-id) |
+| 2026-11-10 | **KOSTKU! — Juragan Kost** | Manajemen kos-kosan untuk pemilik kost: lacak siapa yang belum bayar, cap stempel LUNAS, kirim pengingat tagihan via WhatsApp, dan catat pengeluaran — data contoh Kost Mawar Batam 10 kamar. | [Repo](https://github.com/junanda24/daily-kostku) |
 
 ## Semua repo publik
 
