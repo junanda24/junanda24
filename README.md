@@ -63,6 +63,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-09 | **qris-id** | Library TypeScript zero-dependency untuk baca, bikin, validasi, dan ubah payload QRIS: stiker statis warung jadi payload dinamis ber-nominal dalam satu fungsi, tanpa gateway dan tanpa API key — plus CLI. | [Repo](https://github.com/junanda24/daily-qris-id) |
 | 2026-11-10 | **KOSTKU! — Juragan Kost** | Manajemen kos-kosan untuk pemilik kost: lacak siapa yang belum bayar, cap stempel LUNAS, kirim pengingat tagihan via WhatsApp, dan catat pengeluaran — data contoh Kost Mawar Batam 10 kamar. | [Repo](https://github.com/junanda24/daily-kostku) |
 | 2026-11-11 | **OJOL! — Ngebut Antar Orderan** | Game arcade jadi driver ojol: jemput di marker hijau, antar ke tujuan sebelum timer habis, kumpulkan ongkos + tip, jaga rating dan bensin — tabungan hasil narik dibelanjakan upgrade di Bengkel. | [Repo](https://github.com/junanda24/daily-ojol) |
+| 2026-11-12 | **TITIP! — Juragan Jastip** | App manajemen jastip: buka sesi, katalog barang, titipan per orang, ongkir + fee kehitung otomatis, tagihan siap tempel ke WA, stempel LUNAS saat semua bayar. | [Repo](https://github.com/junanda24/daily-titip) |
 
 ## Semua repo publik
 
