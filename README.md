@@ -65,6 +65,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-11 | **OJOL! — Ngebut Antar Orderan** | Game arcade jadi driver ojol: jemput di marker hijau, antar ke tujuan sebelum timer habis, kumpulkan ongkos + tip, jaga rating dan bensin — tabungan hasil narik dibelanjakan upgrade di Bengkel. | [Repo](https://github.com/junanda24/daily-ojol) |
 | 2026-11-12 | **TITIP! — Juragan Jastip** | App manajemen jastip: buka sesi, katalog barang, titipan per orang, ongkir + fee kehitung otomatis, tagihan siap tempel ke WA, stempel LUNAS saat semua bayar. | [Repo](https://github.com/junanda24/daily-titip) |
 | 2026-11-13 | **TANI! — Juragan Sawah** | Game simulasi bertani 30 hari: tanam 6 komoditas, siram, lawan cuaca dan hama, jual di pasar dengan harga pangan asli Bapanas — capai Rp 1.000.000 dan jadi Juragan Sawah. | [Repo](https://github.com/junanda24/daily-tani) |
+| 2026-11-14 | **KALORIKU! — Hitung Kalori Makanan Indonesia** | Pelacak kalori makanan Indonesia: 51 makanan lokal dengan porsi asli (piring/mangkok/potong), piring harian lawan target AKG, riwayat 7 hari, dan kuis Tebak Kalori. | [Repo](https://github.com/junanda24/daily-kaloriku) |
 
 ## Semua repo publik
 
