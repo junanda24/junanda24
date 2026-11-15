@@ -67,6 +67,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-13 | **TANI! — Juragan Sawah** | Game simulasi bertani 30 hari: tanam 6 komoditas, siram, lawan cuaca dan hama, jual di pasar dengan harga pangan asli Bapanas — capai Rp 1.000.000 dan jadi Juragan Sawah. | [Repo](https://github.com/junanda24/daily-tani) |
 | 2026-11-14 | **KALORIKU! — Hitung Kalori Makanan Indonesia** | Pelacak kalori makanan Indonesia: 51 makanan lokal dengan porsi asli (piring/mangkok/potong), piring harian lawan target AKG, riwayat 7 hari, dan kuis Tebak Kalori. | [Repo](https://github.com/junanda24/daily-kaloriku) |
 | 2026-11-15 | **daily_sholat** | Jadwal sholat Indonesia offline di Dart murni: metode Kemenag default, 46 kota, arah kiblat, dan tanggal Hijriah — tanpa internet, tanpa API key. | [Repo](https://github.com/junanda24/daily-sholat) |
+| 2026-11-16 | **CONGKLAK!** | Congklak tradisional lawan AI minimax (3 tingkat) atau teman satu layar — aturan asli: jalan terus, tembak, giliran tambahan. | [Repo](https://github.com/junanda24/daily-congklak) |
 
 ## Semua repo publik
 
