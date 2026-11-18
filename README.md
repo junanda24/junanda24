@@ -70,6 +70,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-16 | **CONGKLAK!** | Congklak tradisional lawan AI minimax (3 tingkat) atau teman satu layar — aturan asli: jalan terus, tembak, giliran tambahan. | [Repo](https://github.com/junanda24/daily-congklak) |
 | 2026-11-17 | **WARIS! — Kalkulator Waris Islam** | Kalkulator waris faraid (QS An-Nisa & KHI 176–193): waterfall gono-gini, utang, wasiat, lalu 'awl, radd, gharawain, dan ahli waris pengganti — lengkap dengan dalil tiap bagian. | [Repo](https://github.com/junanda24/daily-waris) |
 | 2026-11-18 | **pph-21** | Library hitung PPh Pasal 21 Indonesia: tabel TER lengkap (125 lapisan, PP 58/2023), progresif tahunan, rekonsiliasi Desember, gross-up, PTKP 12 status — plus CLI. Zero dependency. | [Repo](https://github.com/junanda24/daily-pph-21) |
+| 2026-11-19 | **SAHAM! — Juragan Saham** | Game simulasi trading IDX 30 hari: modal Rp 10 jt, 8 saham nyata, 36 berita pasar yang menggerakkan harga, fee broker, dividen, dan gelar dari Korban Gorengan sampai Sultan Bursa. | [Repo](https://github.com/junanda24/daily-saham) |
 
 ## Semua repo publik
 
