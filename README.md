@@ -74,6 +74,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-20 | **LAYANGAN! — Adu Layangan** | Game duel layangan gelasan khas Indonesia: silangkan benang, gesek sampai benang lawan putus, kalahkan 3 lawan (Dedi, Bang Udin, Mbah Wiryo) dan rebut gelar Raja Layangan — angin dinamis, langit senja kampung, suara procedural. | [Repo](https://github.com/junanda24/daily-layangan) |
 | 2026-11-21 | **NIKAH! — Rencana Nikah** | Perencana pernikahan lengkap: estimasi budget 10 pos × 3 tier harga 2026, rencana nabung per bulan, countdown live + weton tanggal nikah, dan checklist 24 tugas sampai hari-H — status Cukup/Mepet/Kurang dengan saran pangkas. | [Repo](https://github.com/junanda24/daily-nikah) |
 | 2026-11-22 | **GOBAK SODOR!** | Game arcade permainan tradisional gobak sodor: bolak-balik menembus lapangan kapur berpetak sambil menghindari penjaga garis yang berpatroli dan mengintai — kombo, power-up, level sampai 10+, dan high score lokal. | [Repo](https://github.com/junanda24/daily-gobak-sodor) |
+| 2026-11-23 | **BATIK! — Studio Motif Batik Nusantara** | Galeri 10 motif batik dengan makna & cerita terverifikasi, studio racik warna motif sendiri (mockup kain & kemeja + unduh PNG), dan kuis tebak motif dari bentuknya — semua pola SVG orisinal. | [Repo](https://github.com/junanda24/daily-batik) |
 
 ## Semua repo publik
 
