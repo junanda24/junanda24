@@ -75,6 +75,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-21 | **NIKAH! — Rencana Nikah** | Perencana pernikahan lengkap: estimasi budget 10 pos × 3 tier harga 2026, rencana nabung per bulan, countdown live + weton tanggal nikah, dan checklist 24 tugas sampai hari-H — status Cukup/Mepet/Kurang dengan saran pangkas. | [Repo](https://github.com/junanda24/daily-nikah) |
 | 2026-11-22 | **GOBAK SODOR!** | Game arcade permainan tradisional gobak sodor: bolak-balik menembus lapangan kapur berpetak sambil menghindari penjaga garis yang berpatroli dan mengintai — kombo, power-up, level sampai 10+, dan high score lokal. | [Repo](https://github.com/junanda24/daily-gobak-sodor) |
 | 2026-11-23 | **BATIK! — Studio Motif Batik Nusantara** | Galeri 10 motif batik dengan makna & cerita terverifikasi, studio racik warna motif sendiri (mockup kain & kemeja + unduh PNG), dan kuis tebak motif dari bentuknya — semua pola SVG orisinal. | [Repo](https://github.com/junanda24/daily-batik) |
+| 2026-11-24 | **DANGDUT! — Raja Koplo** | Game ritme dangdut koplo: ketuk not 4 lajur mengikuti kendang, bass, dan suling yang disintesis live — 3 lagu orisinal 100–150 BPM, saweran di kombo 25/50/100, Mode Joget skor ×2, grade S–F dan high-score lokal. | [Repo](https://github.com/junanda24/daily-dangdut) |
 
 ## Semua repo publik
 
