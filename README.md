@@ -77,6 +77,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-23 | **BATIK! — Studio Motif Batik Nusantara** | Galeri 10 motif batik dengan makna & cerita terverifikasi, studio racik warna motif sendiri (mockup kain & kemeja + unduh PNG), dan kuis tebak motif dari bentuknya — semua pola SVG orisinal. | [Repo](https://github.com/junanda24/daily-batik) |
 | 2026-11-24 | **DANGDUT! — Raja Koplo** | Game ritme dangdut koplo: ketuk not 4 lajur mengikuti kendang, bass, dan suling yang disintesis live — 3 lagu orisinal 100–150 BPM, saweran di kombo 25/50/100, Mode Joget skor ×2, grade S–F dan high-score lokal. | [Repo](https://github.com/junanda24/daily-dangdut) |
 | 2026-11-25 | **nama-bayi-nusantara** | Library 200 nama bayi dari 10 suku Nusantara beserta artinya (Jawa sampai Betawi) — cari dari arti, acak dengan seed, rangkai nama lengkap, plus catatan budaya tiap suku dan CLI. Zero dependency. | [Repo](https://github.com/junanda24/daily-nama-bayi-nusantara) |
+| 2026-11-26 | **IMUNISASIKU! — Jadwal Imunisasi Anak** | Pelacak jadwal imunisasi anak IDAI 2024: satu tanggal lahir jadi peta 41 vaksin 0–18 tahun, status Sudah/Segera/Terlewat, cincin progres imunisasi dasar lengkap, influenza tahunan, kartu imunisasi siap cetak — semua tersimpan lokal di HP. | [Repo](https://github.com/junanda24/daily-imunisasiku) |
 
 ## Semua repo publik
 
