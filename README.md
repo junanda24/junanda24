@@ -79,6 +79,7 @@ Project kecil yang dibangun tiap pagi: web app, game, package, CLI, dan lainnya.
 | 2026-11-25 | **nama-bayi-nusantara** | Library 200 nama bayi dari 10 suku Nusantara beserta artinya (Jawa sampai Betawi) — cari dari arti, acak dengan seed, rangkai nama lengkap, plus catatan budaya tiap suku dan CLI. Zero dependency. | [Repo](https://github.com/junanda24/daily-nama-bayi-nusantara) |
 | 2026-11-26 | **IMUNISASIKU! — Jadwal Imunisasi Anak** | Pelacak jadwal imunisasi anak IDAI 2024: satu tanggal lahir jadi peta 41 vaksin 0–18 tahun, status Sudah/Segera/Terlewat, cincin progres imunisasi dasar lengkap, influenza tahunan, kartu imunisasi siap cetak — semua tersimpan lokal di HP. | [Repo](https://github.com/junanda24/daily-imunisasiku) |
 | 2026-11-27 | **WARTEG! — Juragan Warteg** | Game time-management jadi juragan warteg: layani 5 tipe pelanggan (kuli sampai sopir angkot) dengan menu & harga warteg asli 2026, kejar target omzet 3 hari, beli upgrade kipas/kursi/etalase — pelanggan kabur, hati berkurang. | [Repo](https://github.com/junanda24/daily-warteg) |
+| 2026-11-28 | **TILANG! — Cek Denda, Pasal & Cara Urus Tilang** | Kena tilang berapa? Pilih pelanggaran dari 25 pasal UU No. 22 Tahun 2009 — total denda maksimal + kurungan tampil di blangko surat tilang, plus kuis jebakan "Tilang atau Bukan?" dan panduan urus tilang (slip biru/merah, ETLE). | [Repo](https://github.com/junanda24/daily-tilang) |
 
 ## Semua repo publik
 
